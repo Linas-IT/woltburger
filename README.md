@@ -35,10 +35,12 @@ If you're not using Node or a package manager (npm, pnpm or Yarn) in your projec
 # Step 5: Open Cypress Test Runner
 Once Cypress is installed, you can open the Cypress Test Runner by running the following command:
 
-# npx cypress open or cypress open
+npx cypress open or cypress open
+
 After executing this command npx cypress open or cypress open, the Cypress Test Runner will launch, allowing you to select and run your test scripts.
 
 # Running Test Scripts
+Put test scripts to e2e or cypress/e2e folder
 To run a specific test file within the Cypress Test Runner, click on the desired test file in the Cypress interface.
 
 Alternatively, you can run tests using the command line interface with the following command
